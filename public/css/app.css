@@ -1,0 +1,97 @@
+.navbar {
+  border-bottom: 2px solid #3745A3;
+  margin-bottom: 20px;
+}
+
+.navbar-brand {
+  color: #3745B3;
+  font-style: oblique;
+}
+
+.nav li a {
+  margin: 10px;
+  padding: 0;
+}
+
+#flash {
+  position: absolute;
+  z-index: 5;
+  top: 7%;
+  left: 45%;
+  color: #FFF;
+  padding: 20px;
+  border-top: 3px solid rgb(24, 158, 48);
+  border-bottom: 3px solid rgb(24, 158, 48);
+  border-radius: 5px;
+  background: rgb(25, 224, 35);
+  opacity: 0.8;
+}
+
+.side-about {
+  font-style: italic;
+  color: #999;
+  background: #EEE;
+  padding: 20px;
+}
+
+.side-archives {
+  list-style-type: none;
+}
+
+.side-archives {
+  margin: 0;
+  padding: 0;
+}
+
+.display {
+  color: #777;
+}
+
+.blog-post a {
+  color: #333;
+}
+
+.blog-post h3 {
+  font-style: italic;
+}
+
+.posted-on {
+  color: #288856;
+}
+
+.posted-on i {
+  color: #555;
+}
+
+.posted-on small {
+  color: #285888
+}
+
+.the-post h2 {
+  font-style: italic;
+}
+
+.the-post h6 {
+  color: #288856;
+}
+
+.the-post h5 {
+  color: #111;
+}
+
+.list-group-item strong {
+  color: #111;
+}
+
+.footer {
+  color: #AAA;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.error {
+  display: absolute;
+  z-index: 5;
+  top: 5%;
+  left: 45%;
+}
